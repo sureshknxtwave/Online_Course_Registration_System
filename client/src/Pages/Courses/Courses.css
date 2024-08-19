@@ -1,0 +1,96 @@
+.course-section{
+    padding: 50px 0px;
+    
+    
+}
+.c-s-btn-card {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+
+}
+.c-s-btn-card button{
+    margin: 30px;
+    height: 50px;
+    width: 180px;
+    border-style: none;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 15px;
+}
+.c-s-btn-card button:hover{
+    background-color:#41C9E2;
+    color: white;
+}
+
+
+.course-card{
+    
+    
+    border-radius: 10px;
+}
+
+.course-card img{
+    height: 180px;
+    width: 100%;
+}
+
+.cc-cName{
+    font-size: 20px;
+    color: hsl(179, 61%, 54%);
+    font-weight: bold;
+    
+
+}
+.cc-cDis{
+    font-size: 12px;
+    color: rgb(163, 163, 163);
+}
+.cc-cRating{
+    font-size: 14px;
+}
+.cc-cDuration{
+        font-size: 16px;
+        color: rgb(169, 169, 168);
+}
+
+.cc-cPrice{
+    font-size: 20px;
+    color: red;
+}
+
+.cc-cBSeller{
+    font-style: italic;
+    font-size: 12px;
+}
+.checked{
+    color: orange;
+}
+
+.cc-btn{
+    background-color: greenyellow;
+    border-style: none;
+    border-radius: 5px;
+    color:green;
+    font-size: 12px;
+    width: 100px;
+    height: 40px;
+    margin-right: 15px;
+}
+.cc-btn:hover{
+    background-color: aqua;
+    color: white;
+    font-weight: bold;
+}
+
+.course-section-hea{
+    color:  rgb(50, 77, 6);
+    font-size: 35px;
+    
+}
+.course-section-dis{
+    color:  rgb(83, 84, 84);
+    font-size: 15px;
+    margin-bottom: 30px;
+    
+}

@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding:0;
+   
+}
+
+
+.signup-container{
+    background-color: white;
+    padding: 20px 70px;
+    height: 600px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.signup-page{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:#008DDA;
+    background-size: cover;
+    height: 100vh;
+    padding-bottom: 50px;
+}
+.sign-up-heading{
+    font-size: 35px;
+    color:#008DDA;
+    font-weight: bold;
+    text-align: center;
+}
+.sign-up-dis{
+    font-size: 14px;
+    color: rgb(164, 162, 162);
+}
+.sign-up-label{
+    color: black;
+    font-size: 12px;
+}
+.sign-up-input{
+    padding: 7px;
+    border: solid 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 3px;
+    border-color:#ACE2E1;
+    width: 100%;
+    outline: none;
+    
+
+}
+.signup-btn{
+    width: 100%;
+    border-style: none;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 12px;
+    color: white;
+    background-color:#41C9E2;
+}
+.signup-btn:hover{
+    background-color:#008DDA;;
+    color: black;
+}
+.signup-img{
+    height: 600px;
+    width: 450px;
+}
+
+.sigin-link{
+    color: black;
+    font-size: 16px;
+}
+.sigin-link:hover{
+    border: solid 1px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 3px;
+    border-color:#008DDA;;
+}
+
+
+
+
+@media(max-width:762px){
+    .signup-page{
+    
+       
+       
+        background-size: cover;
+        height: 100vh;
+        padding-bottom: 50px;
+    }
+    .signup-container{
+        background-color:rgb(241, 243, 244);
+        padding: 20px 70px;
+        border-radius: 15px;
+        width: 100%;
+        
+        
+    }
+}
+
+
+
+.fade-in {
+	-webkit-animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	        animation: fade-in 1s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}

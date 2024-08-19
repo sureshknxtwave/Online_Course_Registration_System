@@ -1,0 +1,103 @@
+.specific-course{
+    background-color: #008DDA;
+    height: 60vh;
+    padding: 50px 0px;
+}
+
+.specific-course-video-card{
+    height: 80vh;
+    background-color: white;
+}
+.specific-course-video{
+    height: 30vh;
+    width: 100%;
+}
+.preview{
+    color:#008DDA;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.spe-btn{
+    background-color:#b93e9e;
+    border-style: none;
+    
+    color:white;
+    font-size: 12px;
+    width: 90%;
+    height: 40px;
+    
+}
+.specific-course-video-card2{
+    padding-left: 40px;
+}
+
+
+.specific-course-hea{
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.specific-course-dis{
+    color:white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.specific-course-bSeller{
+    color:rgb(240, 193, 6);
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.specific-course-rating{
+    color:rgb(184, 183, 179);
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.specific-course-lan{
+    color:rgb(234, 241, 232);
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.specific-course-date{
+    color:rgb(234, 241, 232);
+    font-size: 10px;
+    margin-bottom: 15px;
+}
+
+
+.preview-price{
+    color: black;
+    font-size: 20px;
+}
+.preview-price span{
+    padding-left: 10px;
+    text-decoration: line-through;
+    font-size: 15px;
+}
+.preview-price-discount{
+    padding-left: 10px;
+    text-decoration: none !important;
+    font-size: 15px;
+    color: orangered;
+}
+
+.preview--dis{
+    color: red;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+.preview--dis1{
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.spe-c-hea-2{
+    font-size: 40px;
+}
+.spe-c-dis-2{
+    font-size: 16px;
+    color: gray;
+    margin-bottom: 15px;
+}
