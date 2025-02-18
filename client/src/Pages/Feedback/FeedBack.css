@@ -1,0 +1,11 @@
+.feedback-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: auto;
+}
+.feedback-container form{
+    margin: 50px 0px;
+    border: 2px solid;
+    padding: 60px;
+}

@@ -1,0 +1,188 @@
+ 
+
+
+.home-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#008DDA;
+    height: 100vh;
+}
+.home-card img{
+    height: 500px;
+    margin-top: 110px;
+}
+.home-card-card{
+    margin-left: 80px;
+    
+    
+}
+.home-card-card-hea1{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+.home-card-card-hea2{
+    font-size: 50px;
+    font-weight: bold;
+    color:#E2F4C5 ;
+}
+.home-card-card-dis{
+    font-size: 14px;
+    font-weight: bold;
+    color:#E2F4C5 ;
+}
+.home-card-card-btn1{
+    background-color: greenyellow;
+    border-style: none;
+    border-radius: 5px;
+    color:green;
+    width: 130px;
+    height: 50px;
+    margin-right: 15px;
+    
+}
+.home-card-card-btn2{
+    
+    border-style: none;
+    border-radius: 5px;
+    color:green;
+    width: 130px;
+    height: 50px;
+    margin-left: 15px;
+    
+}
+
+
+.PersonalPlanImg{
+    height: 600px;
+}
+
+
+.personal-plan-section{
+    height: 100vh;
+    
+    
+
+}
+.pps-card{
+    height: 600px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 80px;
+    
+}
+
+
+.ratings-cards{
+    background-color: #008DDA;
+    padding: 100px 0px;
+    color: white;
+}
+
+.rat-cards{
+    text-align: center;    
+}
+
+.trending-now-section{
+    padding: 100px 0px;
+}
+
+
+.blog-section{
+    background-color: #008DDA;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.blog-section-video{
+    height: 60vh;
+    width: 80vw;
+    border-radius: 30px;
+}
+
+.blog-section-hea{
+    color: white;
+    font-size: 45px;
+    word-spacing: 5px;
+}
+.blog-section-dis{
+    color: white;
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+.personal-plan-section-hea1{
+    color:  #82c6eb;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.personal-plan-section-hea2{
+    color:  #0d5073;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.personal-plan-section-dis{
+    color:  #474848;
+    font-weight: bold;
+    font-size: 17px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    margin-bottom: 20px;
+}
+.personal-plan-section-btn{
+    background-color: greenyellow;
+    border-style: none;
+    border-radius: 5px;
+    color:green;
+    width: 130px;
+    height: 50px;
+    margin-right: 15px;
+}
+
+
+.tns-hea{
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tns-hea2{
+    font-size: 40px;
+    color: #474848;
+}
+.tns-link{
+    color: #008DDA;
+    font-size: 15px ;
+    margin: 10px 0px;
+}
+.tns-learners{
+    color: rgb(109, 109, 109);
+    font-size: 15px;
+}
+.tns-sec-name{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.tns-btn{
+    width: 100%;
+    background-color: white;
+    border: 1px solid;
+    padding: 10px;
+}
+.tns-btn:hover{
+    width: 100%;
+    background-color: rgb(63, 224, 249);
+    border-style: none;
+    padding: 10px;
+    color: white;
+}
+hr{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}

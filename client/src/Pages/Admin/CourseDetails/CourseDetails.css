@@ -1,0 +1,11 @@
+.courselist-box{
+    
+    width: 800px;
+    border: solid 1px orange;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    color: rgb(225, 223, 223);
+    font-weight: bold;
+    
+}

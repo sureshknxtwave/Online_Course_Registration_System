@@ -1,0 +1,89 @@
+ 
+
+
+.home-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#008DDA;
+    height: 100vh;
+}
+.home-card img{
+    height: 500px;
+    margin-top: 110px;
+}
+.home-card-card{
+    margin-left: 80px;
+    
+    
+}
+.home-card-card-hea1{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+.home-card-card-hea2{
+    font-size: 50px;
+    font-weight: bold;
+    color:#E2F4C5 ;
+}
+.home-card-card-dis{
+    font-size: 14px;
+    font-weight: bold;
+    color:#E2F4C5 ;
+}
+.home-card-card-btn1{
+    background-color: greenyellow;
+    border-style: none;
+    border-radius: 5px;
+    color:green;
+    width: 130px;
+    height: 50px;
+    margin-right: 15px;
+    
+}
+.home-card-card-btn2{
+    
+    border-style: none;
+    border-radius: 5px;
+    color:green;
+    width: 130px;
+    height: 50px;
+    margin-left: 15px;
+    
+}
+
+
+.PersonalPlanImg{
+    height: 600px;
+}
+
+
+.personal-plan-section{
+    height: 100vh;
+    
+
+}
+.pps-card{
+    height: 600px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+
+.ratings-cards{
+    background-color: #008DDA;
+    padding: 100px 0px;
+}
+
+.rat-cards{
+    text-align: center;    
+}
+
+.trending-now-section{
+    padding: 100px 0px;
+}
